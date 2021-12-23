@@ -1,0 +1,43 @@
+﻿@model TrainingCenter.BLL.Models.InstructorVM
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/MainLayout.cshtml";
+}
+
+
+
+<br />
+<br />
+<a asp-action="Index" asp-controller="Instructor" class="btn btn-primary">Back To Instructors</a>
+
+<br />
+<br />
+
+<form asp-action="Edit" asp-controller="Instructor" method="post">
+    <div class="row justify-content-center">
+        <div class="form-group col-md-4">
+            <label for="Name">Name</label>
+            <input type="text" class="form-control" asp-for="Name" placeholder="Enter Instructor Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label for="Email">Email</label>
+            <input type="text" class="form-control" asp-for="Email" placeholder="Enter Instructor Email">
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label for="Salary">Salary</label>
+            <input type="text" class="form-control" asp-for="Salary" placeholder="Enter Salary">
+            <span asp-validation-for="Salary" class="text-danger"></span>
+        </div>
+
+    </div>
+
+    <br />
+    <br />
+    <center>
+        <input type="submit" class="btn btn-primary" value="Save" />
+        <input type="reset" class="btn btn-danger" value="Clear" />
+    </center>
+
+</form>

@@ -1,0 +1,47 @@
+﻿@model TrainingCenter.BLL.Models.InstructorCourseVM
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/MainLayout.cshtml";
+}
+
+
+
+<br />
+<br />
+<a asp-action="Index" asp-controller="InstructorCourse" class="btn btn-primary">Back To Available Courses</a>
+
+<br />
+<br />
+
+<form asp-action="AssignInstructor" asp-controller="InstructorCourse" method="post">
+    <div class="row justify-content-center">
+        <div class="form-group col-md-4">
+            <label for="CourseId">Course Name</label>
+            <select asp-for="CourseId" asp-items="(SelectList)ViewBag.CourseList" class="form-select">
+                <option>Select Course...</option>
+            </select>
+            <span asp-validation-for="CourseId" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label for="InstructorId">Instructor Name</label>
+            <select asp-for="InstructorId" asp-items="(SelectList)ViewBag.InstructorList" class="form-select">
+                <option>Select Instructor...</option>
+            </select>
+            <span asp-validation-for="InstructorId" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label for="Time">Course Date</label>
+            <input type="date" class="form-control" asp-for="Time" />
+            <span asp-validation-for="Time" class="text-danger"></span>
+        </div>
+
+    </div>
+
+    <br />
+    <br />
+    <center>
+        <input type="submit" class="btn btn-primary" value="Add" />
+        <input type="reset" class="btn btn-danger" value="Clear" />
+    </center>
+
+</form>

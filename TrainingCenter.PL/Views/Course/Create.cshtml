@@ -1,0 +1,43 @@
+﻿@model TrainingCenter.BLL.Models.CourseVM
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/MainLayout.cshtml";
+}
+
+
+
+<br />
+<br />
+<a asp-action="Index" asp-controller="Course" class="btn btn-primary">Back To Courses</a>
+
+<br />
+<br />
+
+<form asp-action="Create" asp-controller="Course" method="post">
+    <div class="row justify-content-center">
+        <div class="form-group col-md-4">
+            <label for="Title">Title</label>
+            <input type="text" class="form-control" asp-for="Title" placeholder="Enter Course Title">
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label for="Description">Description</label>
+            <input type="text" class="form-control" asp-for="Description" placeholder="Enter Course Description">
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label for="Duration">Duration</label>
+            <input type="text" class="form-control" asp-for="Duration" placeholder="Enter Course Duration">
+            <span asp-validation-for="Duration" class="text-danger"></span>
+        </div>
+
+    </div>
+
+    <br />
+    <br />
+    <center>
+        <input type="submit" class="btn btn-primary" value="Add" />
+        <input type="reset" class="btn btn-danger" value="Clear" />
+    </center>
+
+</form>

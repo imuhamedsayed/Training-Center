@@ -1,0 +1,15 @@
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\bin\Debug\net5.0\TrainingCenter.DAL.deps.json
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\bin\Debug\net5.0\TrainingCenter.DAL.runtimeconfig.json
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\bin\Debug\net5.0\TrainingCenter.DAL.runtimeconfig.dev.json
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\bin\Debug\net5.0\TrainingCenter.DAL.dll
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\bin\Debug\net5.0\ref\TrainingCenter.DAL.dll
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\bin\Debug\net5.0\TrainingCenter.DAL.pdb
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\obj\Debug\net5.0\TrainingCenter.DAL.csproj.AssemblyReference.cache
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\obj\Debug\net5.0\TrainingCenter.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\obj\Debug\net5.0\TrainingCenter.DAL.AssemblyInfoInputs.cache
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\obj\Debug\net5.0\TrainingCenter.DAL.AssemblyInfo.cs
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\obj\Debug\net5.0\TrainingCenter.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\obj\Debug\net5.0\TrainingCenter.DAL.dll
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\obj\Debug\net5.0\ref\TrainingCenter.DAL.dll
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\obj\Debug\net5.0\TrainingCenter.DAL.pdb
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.DAL\obj\Debug\net5.0\TrainingCenter.DAL.genruntimeconfig.cache

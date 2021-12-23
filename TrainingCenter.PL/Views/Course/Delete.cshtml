@@ -1,0 +1,43 @@
+﻿@model TrainingCenter.BLL.Models.CourseVM
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/MainLayout.cshtml";
+}
+
+<br />
+<br />
+<a asp-action="Index" asp-controller="Course" class="btn btn-primary">Back To Courses</a>
+
+<br />
+<br />
+
+<form asp-action="ConfirmDelete" asp-controller="Course" method="post">
+    <input type="hidden" class="form-control" asp-for="Id">
+    <div class="row">
+        <div class="form-group col-md-4">
+            <label for="Name">Name</label>
+            <input type="text" class="form-control" asp-for="Title" disabled>
+
+        </div>
+        <div class="form-group col-md-4">
+            <label for="Email">Email</label>
+            <input type="text" class="form-control" asp-for="Description" disabled>
+
+        </div>
+
+        <div class="form-group col-md-4">
+            <label for="Salary">Salary</label>
+            <input type="text" class="form-control" asp-for="Duration" disabled>
+
+        </div>
+
+    </div>
+
+    <br />
+    <br />
+    <center>
+        <input type="submit" class="btn btn-danger" value="Confirm Delete" />
+
+    </center>
+
+</form>

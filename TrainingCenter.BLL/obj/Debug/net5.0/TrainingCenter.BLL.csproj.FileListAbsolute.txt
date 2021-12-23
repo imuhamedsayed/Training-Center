@@ -1,0 +1,15 @@
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\bin\Debug\net5.0\TrainingCenter.BLL.deps.json
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\bin\Debug\net5.0\TrainingCenter.BLL.dll
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\bin\Debug\net5.0\ref\TrainingCenter.BLL.dll
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\bin\Debug\net5.0\TrainingCenter.BLL.pdb
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\bin\Debug\net5.0\TrainingCenter.DAL.dll
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\bin\Debug\net5.0\TrainingCenter.DAL.pdb
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\obj\Debug\net5.0\TrainingCenter.BLL.csproj.AssemblyReference.cache
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\obj\Debug\net5.0\TrainingCenter.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\obj\Debug\net5.0\TrainingCenter.BLL.AssemblyInfoInputs.cache
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\obj\Debug\net5.0\TrainingCenter.BLL.AssemblyInfo.cs
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\obj\Debug\net5.0\TrainingCenter.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\obj\Debug\net5.0\TrainingCenter.BLL.csproj.CopyComplete
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\obj\Debug\net5.0\TrainingCenter.BLL.dll
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\obj\Debug\net5.0\ref\TrainingCenter.BLL.dll
+C:\Users\Mohamed Sayed\source\repos\Training Center\TrainingCenter.BLL\obj\Debug\net5.0\TrainingCenter.BLL.pdb
